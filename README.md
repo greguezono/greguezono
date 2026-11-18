@@ -4,7 +4,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/ai-output-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/ai-output-light.svg">
-    <img alt="My pull requests per month rose 2.3x after I started coding with AI in December 2025" src="assets/ai-output-dark.svg" width="100%">
+    <img alt="Pull requests I opened each month, Nov 2023 to present, with my first Claude commit on 2025-12-05 marked" src="assets/ai-output-dark.svg" width="100%">
   </picture>
 </a>
 
