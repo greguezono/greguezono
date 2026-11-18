@@ -1,4 +1,4 @@
-### Hi, I'm Greg 👋
+### Hi, I'm Greg 🏄 🤿 💻
 
 <a href="https://greguezono.github.io/ai-output/">
   <picture>
