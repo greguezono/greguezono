@@ -1,4 +1,5 @@
-### Hi, I'm Greg 🏄 🤿 💻
+### Greg Uezono 
+🏄 🤿 💻 
 
 <a href="https://greguezono.github.io/ai-output/">
   <picture>
