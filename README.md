@@ -8,4 +8,4 @@
   </picture>
 </a>
 
-<sub>Built from my GitHub PR history. <a href="https://greguezono.github.io/ai-output/">Interactive report →</a></sub>
+<sub>Built from my GitHub PR history. <a href="https://greguezono.github.io/ai-output/">Interactive report →</a> · <a href="https://greguezono.github.io/ai-output/#personal">Travel atlas →</a></sub>
